@@ -6,7 +6,7 @@
 
 <br />
 
-I'm [Santo Sidauruk](https://santosidauruk.com), a web developer based in Jakarta, Indonesia.Currently working at LinkAja. <br />
+I'm [Santo Sidauruk](https://santosidauruk.com), a web developer based in Jakarta, Indonesia. Currently working at LinkAja. <br />
 Tech stack I usually use are react, next.js, and typescript.
 You can reach me at santosidauruk@gmail.com
 <br />
