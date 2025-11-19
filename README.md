@@ -13,5 +13,6 @@ You can reach me at santosidauruk@gmail.com
 
 ### 📈 My GitHub Stats
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosidauruk&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosidauruk&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+[![Santo's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosidauruk)](https://github.com/santosidauruk/github-readme-stats)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosidauruk&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
