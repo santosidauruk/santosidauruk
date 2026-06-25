@@ -1,18 +1,26 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## Hi, I'm Santo 👋 
+
+### About me
+
+I'm a Web Engineer based in Jakarta with 8+ years building products in Indonesia's fintech space, most recently as Squad Lead at LinkAja and before that at Kitabisa.com. My home base is **React, Next.js, and TypeScript**, but a good chunk of my work has lived outside the frontend too, in Node.js and Go services, PostgreSQL, and Docker.
+
+I also spend time outside work building **Granary**, a side project for monitoring stock portfolios aimed at Indonesian retail investors, an extension of my own interest in the IDX market.
+
+These days I'm taking on freelance/consulting work alongside exploring senior IC roles. Always happy to connect and talk shop, whether it's about fintech, web, or backend systems.
+
+<br />
+
+### 🛠️ Tech I work with
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,go,postgres,docker" />
+</p>
+
+<br />
 
 ### Connect with me
-<a href="https://twitter.com/santosidauruk"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santo-sidauruk" height="25" width="35"/></a>
-<a href="https://www.linkedin.com/in/santo-sidauruk/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santo-sidauruk" height="25" width="35"/></a>
-
-<br />
-
-I'm [Santo Sidauruk](https://santosidauruk.com), a web developer based in Jakarta, Indonesia. Currently working at LinkAja. <br />
-Tech stack I usually use are react, next.js, and typescript.
-You can reach me at santosidauruk@gmail.com
-<br />
-
-### 📈 My GitHub Stats
-
-[![Santo's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosidauruk)](https://github.com/santosidauruk/github-readme-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosidauruk&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<a href="https://www.linkedin.com/in/santo-sidauruk/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santo-sidauruk" height="25" width="30"/></a>&ensp;
+<a href="mailto:santosidauruk@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="santosidauruk@gmail.com" height="25" width="30"/></a>&ensp;
+<a href="https://santosidauruk.com">
+ <img align="center" src="https://cdn.simpleicons.org/googlechrome/4285F4" width="25" height="30" alt="Website" />
+</a>
